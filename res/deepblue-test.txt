@@ -1,0 +1,1 @@
+This paper describes the Deep Blue chess system, developed at IBM Research during the mid-1990s.
